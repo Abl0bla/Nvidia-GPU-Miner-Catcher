@@ -1,4 +1,4 @@
-# GpuShield-Monitor
+# Nvidia GPU Miner Catcher
 
 A lightweight, stealthy diagnostic tool designed to track GPU resource spikes and identify hidden background processes (such as miners) on Windows systems.
 
